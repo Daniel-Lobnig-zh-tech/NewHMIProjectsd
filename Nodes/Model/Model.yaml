@@ -1,2 +1,7 @@
 Name: Model
 Type: ModelCategoryFolder
+Children:
+- Name: Test_Set_Value
+  Id: g=b5ffd30b8a7da2be0281301acdd79f26
+  Type: BaseDataVariableType
+  DataType: Boolean
